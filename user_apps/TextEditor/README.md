@@ -11,6 +11,6 @@ It is possible to use almost all the keyboards and it allows to open and edit an
 
 F1 = View the content of /notes,  select the file to edit with Enter
 F2 = Save
-F3 = Create a new file
-F4 = Not assigned
+F3 = Save As
+F4 = New file
 F5 = Exit
