@@ -17,9 +17,13 @@ The app itself goes in /apps
 ## Controls
 
 F1 = Wifi    Execute the connection to the network
+
 F2 = Input   PopUp box where to write your text (close with Esc)
+
 F3 = Clear   Clears the chat window
+
 Arrows       Scroll the chat
+
 F5 = Exit
 
 
