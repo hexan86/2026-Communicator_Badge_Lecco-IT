@@ -6,7 +6,6 @@ After the scan shows a list with:
 
 [dBm, auth, bssid, ssid]
 
-
 Then you can clear Save the list, Clear the list or select a Network and connect to it.
 If you connect to a network, it will show ssid and IP address. 
 
